@@ -16,5 +16,5 @@
 - **Extracted Client Counts:**  
   `[10, 20, 30, 40, 50, 60, 70, 80, 90, 100]`
 
-![Multi-Process Execution]([multi_process.png](https://github.com/pranjal15195gaur/CN_Tutorial/blob/main/mutli_process.png))
+![Multi-Process Execution](multi_process.png)
 
