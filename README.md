@@ -7,7 +7,7 @@
 - **Extracted Client Counts:**  
   `[10, 20, 30, 40, 50, 60, 70, 80, 90, 100]`
 
-![Multi-Threaded Execution](multi_thread.png)
+![Multi-Threaded Execution](multi_threaded.png)
 
 ## Multi-Process Execution Results
 
@@ -18,5 +18,12 @@
 
 ![Multi-Process Execution](multi_process.png)
 
+## Single-Host Execution Results
 
+- **Extracted Execution Times (seconds):**  
+  `[30.03528892, 60.055779079, 90.083649507, 132.530335798, 150.107711303, 180.131355153, 210.13441504, 240.160207381, 270.276450538, 300.214706017]`
+- **Extracted Client Counts:**  
+  `[10, 20, 30, 40, 50, 60, 70, 80, 90, 100]`
+
+![Single-Host Execution](single.png)
 
