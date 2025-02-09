@@ -40,7 +40,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.138709672 seconds
+Total Execution Time: 30.035288920 seconds
 
 Running benchmark with 20 clients...
 Running 'client.py' 20 times concurrently...
@@ -124,7 +124,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.202288834 seconds
+Total Execution Time: 60.055779079 seconds
 
 Running benchmark with 30 clients...
 Running 'client.py' 30 times concurrently...
@@ -248,7 +248,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.212853453 seconds
+Total Execution Time: 90.083649507 seconds
 
 Running benchmark with 40 clients...
 Running 'client.py' 40 times concurrently...
@@ -412,7 +412,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.287117688 seconds
+Total Execution Time: 132.530335798 seconds
 
 Running benchmark with 50 clients...
 Running 'client.py' 50 times concurrently...
@@ -616,7 +616,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.326556876 seconds
+Total Execution Time: 150.107711303 seconds
 
 Running benchmark with 60 clients...
 Running 'client.py' 60 times concurrently...
@@ -860,7 +860,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.399247507 seconds
+Total Execution Time: 180.131355153 seconds
 
 Running benchmark with 70 clients...
 Running 'client.py' 70 times concurrently...
@@ -1144,7 +1144,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.426797441 seconds
+Total Execution Time: 210.134415040 seconds
 
 Running benchmark with 80 clients...
 Running 'client.py' 80 times concurrently...
@@ -1468,7 +1468,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.515698048 seconds
+Total Execution Time: 240.160207381 seconds
 
 Running benchmark with 90 clients...
 Running 'client.py' 90 times concurrently...
@@ -1832,7 +1832,7 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.595130444 seconds
+Total Execution Time: 270.276450538 seconds
 
 Running benchmark with 100 clients...
 Running 'client.py' 100 times concurrently...
@@ -2236,4 +2236,4 @@ Received: dlrow olleh
 Connected to server.
 Sent: hello world
 Received: dlrow olleh
-Total Execution Time: 3.681214847 seconds
+Total Execution Time: 300.214706017 seconds
